@@ -84,4 +84,4 @@ savings
 Specify the license under which your project is released. Make it clear how others can use your code legally.
 
 ## Acknowledgments
-Appreciate to my friend cyril idu and Ikechukwu ugwu who provided me with access to resources and relevant consultation
+Appreciate to my friends cyril idu and Ikechukwu ugwu who provided me with access to resources and relevant consultation
