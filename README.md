@@ -47,19 +47,19 @@ can structure this task.
 ## Getting Started
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/project-name.git
+$ git clone https://github.com/yourusername/project-name.git
 
 # Navigate to the project directory
-cd microenergy
+$ cd microenergy
 
 # Install dependencies
-pip install -r requirements.txt
+$ pip install -r requirements.txt
 
 # Run migrations
-python manage.py migrate
+$ python manage.py migrate
 
 # Start the development server
-python manage.py runserver
+$ python manage.py runserver
 '''
 
 
