@@ -46,29 +46,27 @@ can structure this task.
 
 ## Getting Started
 
-Clone the repository:
-git clone https://github.com/yourusername/project-name.git
+### Clone the repository:
+- git clone https://github.com/yourusername/project-name.git
 
 
- Navigate to the project directory:
-cd microenergy
+ ### Create a virtual environment (recommended):
+- python -m venv venv
 
-Create a virtual environment (recommended):
-python -m venv venv
+### Install dependencies:
+- pip install -r requirements.txt
 
-Install dependencies:
-pip install -r requirements.txt
+## Run migrations:
+- python manage.py migrate
 
-Run migrations:
- python manage.py migrate
-
- Start the development server:
-python manage.py runserver
+ ## Start the development server:
+- python manage.py runserver
 
 
 
 ## Usage
-Explain how to use your Django application. Provide information about accessing the web interface, any user roles or permissions, and how to interact with the project.
+Form is used from the Client side to collect data sources like emission factors for diesel and hydrogen vehicles to calculate CO2
+emissions. The formula could be something like: 𝐶arbon 𝑆avings = (Emission from Diesel − Emission from Hydrogen) ∗ 𝐴nnual 𝑀ilage
 
 ## Technologies Used
 - Django
@@ -79,10 +77,11 @@ Explain how to use your Django application. Provide information about accessing 
 - django
 
 ## Contributing
-Explain how others can contribute to your project. Include guidelines for reporting issues, suggesting enhancements, and making code contributions. Mention your code of conduct, if you have one.
+This project is open for improvement which includes the addition of authentication system and historical tracking of carbon
+savings
 
 ## License
 Specify the license under which your project is released. Make it clear how others can use your code legally.
 
 ## Acknowledgments
-Give credit to individuals, libraries, or resources that inspired or assisted in the development of your project.
+Appreciate to my friend cyril idu and Ikechukwu ugwu who provided me with access to resources and relevant consultation
