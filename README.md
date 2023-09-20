@@ -59,8 +59,8 @@ python -m venv venv
 Install dependencies:
 pip install -r requirements.txt
 
-# Run migrations
-$ python manage.py migrate
+Run migrations:
+ python manage.py migrate
 
  Start the development server:
 python manage.py runserver
@@ -70,7 +70,7 @@ python manage.py runserver
 ## Usage
 Explain how to use your Django application. Provide information about accessing the web interface, any user roles or permissions, and how to interact with the project.
 
-##Technologies Used
+## Technologies Used
 - Django
 -  HTML
 - CSS
@@ -78,10 +78,10 @@ Explain how to use your Django application. Provide information about accessing 
 - django rest framework
 - django
 
-##Contributing
+## Contributing
 Explain how others can contribute to your project. Include guidelines for reporting issues, suggesting enhancements, and making code contributions. Mention your code of conduct, if you have one.
 
-##License
+## License
 Specify the license under which your project is released. Make it clear how others can use your code legally.
 
 ## Acknowledgments
