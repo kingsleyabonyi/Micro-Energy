@@ -45,12 +45,16 @@ can structure this task.
 - CSS
 
 ## Getting Started
-```bash
-# Clone the repository
-$ git clone https://github.com/yourusername/project-name.git
+
+Clone the repository:
+git clone https://github.com/yourusername/project-name.git
+
 
 # Navigate to the project directory
 $ cd microenergy
+
+# Create a virtual environment (recommended)
+$ python -m venv venv
 
 # Install dependencies
 $ pip install -r requirements.txt
@@ -60,7 +64,7 @@ $ python manage.py migrate
 
 # Start the development server
 $ python manage.py runserver
-'''
+'''bash
 
 
 ## Usage
