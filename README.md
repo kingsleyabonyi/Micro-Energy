@@ -63,18 +63,18 @@ python manage.py runserver
 '''
 
 
-Usage
+## Usage
 
 Explain how to use your Django application. Provide information about accessing the web interface, any user roles or permissions, and how to interact with the project.
-Technologies Used
+##Technologies Used
 
 List the technologies and languages used in your project, including Django, HTML, CSS, and JavaScript. You can also mention any notable libraries or frameworks.
-Contributing
+##Contributing
 
 Explain how others can contribute to your project. Include guidelines for reporting issues, suggesting enhancements, and making code contributions. Mention your code of conduct, if you have one.
-License
+##License
 
 Specify the license under which your project is released. Make it clear how others can use your code legally.
-Acknowledgments
+## Acknowledgments
 
 Give credit to individuals, libraries, or resources that inspired or assisted in the development of your project.
