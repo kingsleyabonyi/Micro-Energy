@@ -50,21 +50,21 @@ Clone the repository:
 git clone https://github.com/yourusername/project-name.git
 
 
-# Navigate to the project directory
-$ cd microenergy
+ Navigate to the project directory:
+cd microenergy
 
-# Create a virtual environment (recommended)
-$ python -m venv venv
+Create a virtual environment (recommended):
+python -m venv venv
 
-# Install dependencies
-$ pip install -r requirements.txt
+Install dependencies:
+pip install -r requirements.txt
 
 # Run migrations
 $ python manage.py migrate
 
-# Start the development server
-$ python manage.py runserver
-'''bash
+ Start the development server:
+python manage.py runserver
+
 
 
 ## Usage
