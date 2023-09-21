@@ -6,6 +6,7 @@ A Python-based task to calculate carbon savings when switching from diesel cars 
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Demo](#demo)
+- [photos](#photo)
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
@@ -34,6 +35,12 @@ can structure this task.
 
 ## Demo
 - Link  https://mei-carbonsavings.vercel.app/
+
+## Photos 
+- ![Screenshot (194)](https://github.com/kingsleyabonyi/Micro-Energy/assets/52834209/650802b9-7287-4a05-b18d-70640bd90086)
+- ![Screenshot (195)](https://github.com/kingsleyabonyi/Micro-Energy/assets/52834209/df32b13f-7c33-4df3-877f-6a8233187c1a)
+
+
 
 ## Prerequisites
 - Python (3.10 or higher)
@@ -86,7 +93,7 @@ This project is open for improvement which includes the addition of authenticati
 savings
 
 ## License
-Specify the license under which your project is released. Make it clear how others can use your code legally.
+Nil
 
 ## Acknowledgments
 Thank you MEI for this opportunity
