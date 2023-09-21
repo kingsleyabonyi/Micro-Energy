@@ -47,20 +47,30 @@ can structure this task.
 ## Getting Started
 
 ### Clone the repository:
-- git clone https://github.com/yourusername/project-name.git
+'''bash
+git clone https://github.com/yourusername/project-name.git
+'''
 
 
  ### Create a virtual environment (recommended):
-- python -m venv venv
+ '''bash
+python -m venv venv
+'''
 
 ### Install dependencies:
-- pip install -r requirements.txt
+'''bash
+pip install -r requirements.txt
+'''
 
 ## Run migrations:
-- python manage.py migrate
+'''bash
+python manage.py migrate
+'''
 
  ## Start the development server:
-- python manage.py runserver
+ '''bash
+ python manage.py runserver
+ '''
 
 
 
@@ -84,4 +94,4 @@ savings
 Specify the license under which your project is released. Make it clear how others can use your code legally.
 
 ## Acknowledgments
-Appreciate to my friends cyril idu and Ikechukwu ugwu who provided me with access to resources and relevant consultation
+Thank you MEI for this opportunity
