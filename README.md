@@ -47,30 +47,25 @@ can structure this task.
 ## Getting Started
 
 ### Clone the repository:
-'''bash
-git clone https://github.com/yourusername/project-name.git
-'''
+- git clone https://github.com/yourusername/project-name.git
+
 
 
  ### Create a virtual environment (recommended):
- '''bash
-python -m venv venv
-'''
+- python -m venv venv
 
-2. Install dependencies:
-'''bash
-pip install -r requirements.txt
-'''
+
+## Install dependencies:
+- pip install -r requirements.txt
+
 
 ## Run migrations:
-'''bash
-python manage.py migrate
-'''
+- python manage.py migrate
+
 
  ## Start the development server:
- '''bash
- python manage.py runserver
- '''
+ - python manage.py runserver
+ 
 
 
 
