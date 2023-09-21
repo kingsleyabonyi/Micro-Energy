@@ -63,7 +63,7 @@ can structure this task.
 - python manage.py migrate
 
 
- ## Start the development server:
+ ## Start the development server
  - python manage.py runserver
  
 
