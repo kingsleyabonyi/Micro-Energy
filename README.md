@@ -57,7 +57,7 @@ git clone https://github.com/yourusername/project-name.git
 python -m venv venv
 '''
 
-### Install dependencies:
+2. Install dependencies:
 '''bash
 pip install -r requirements.txt
 '''
